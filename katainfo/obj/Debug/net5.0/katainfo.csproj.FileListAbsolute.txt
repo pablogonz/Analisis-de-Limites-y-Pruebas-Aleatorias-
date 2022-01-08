@@ -1,0 +1,16 @@
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.csproj.AssemblyReference.cache
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.AssemblyInfoInputs.cache
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.AssemblyInfo.cs
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.csproj.CoreCompileInputs.cache
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\katainfo.exe
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\katainfo.deps.json
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\katainfo.runtimeconfig.json
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\katainfo.runtimeconfig.dev.json
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\katainfo.dll
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\ref\katainfo.dll
+C:\Users\pjgon\Desktop\katainfo\bin\Debug\net5.0\katainfo.pdb
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.dll
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\ref\katainfo.dll
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.pdb
+C:\Users\pjgon\Desktop\katainfo\obj\Debug\net5.0\katainfo.genruntimeconfig.cache
